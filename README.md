@@ -1,6 +1,6 @@
-# the tutz drone
+# the kepler drone
 
-the tutz Drone is a tiny web app mimicking a radio widget - featuring the cool work of [the tutz](https://thetutz.bandcamp.com/), an experimental musician from Brazil.
+the kepler Drone is a tiny web app mimicking a radio widget - featuring the cool work of [Kepler 452b](https://soundcloud.com/user-310662753), an experimental musician from Brazil.
 
 
 ## Usage
